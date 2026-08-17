@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivamgoode/DSA/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/shivamgoode/DSA/tree/master/0904-fruit-into-baskets) |
 | [2653-sliding-subarray-beauty](https://github.com/shivamgoode/DSA/tree/master/2653-sliding-subarray-beauty) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivamgoode/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamgoode/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shivamgoode/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/shivamgoode/DSA/tree/master/0904-fruit-into-baskets) |
 | [2653-sliding-subarray-beauty](https://github.com/shivamgoode/DSA/tree/master/2653-sliding-subarray-beauty) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivamgoode/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivamgoode/DSA/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/shivamgoode/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/shivamgoode/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
