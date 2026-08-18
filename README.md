@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/shivamgoode/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamgoode/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamgoode/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shivamgoode/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shivamgoode/DSA/tree/master/0904-fruit-into-baskets) |
 | [2653-sliding-subarray-beauty](https://github.com/shivamgoode/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamgoode/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shivamgoode/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
