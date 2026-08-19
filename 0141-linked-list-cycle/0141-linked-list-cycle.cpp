@@ -16,7 +16,7 @@ public:
         while (fast != nullptr && fast->next != nullptr) {
 
             fast = fast->next->next;
-            slow = slow->next;
+            slow = slow->next     //the concept of fast and slow is valid for cirular path whenever we have to detect wether a circular patyh is present then we use this concept fast and slow pointer definetly meetes once in the circular path
 
             if (fast == slow) {
                 return true;
