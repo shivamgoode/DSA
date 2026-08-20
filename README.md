@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shivamgoode/DSA/tree/master/0904-fruit-into-baskets) |
 | [2653-sliding-subarray-beauty](https://github.com/shivamgoode/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamgoode/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shivamgoode/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivamgoode/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivamgoode/DSA/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shivamgoode/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
