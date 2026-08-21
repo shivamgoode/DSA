@@ -25,7 +25,7 @@ public:
             }
           if(left <= right) {
         for(int l=bottom;l>=top;l--){
-               ans.push_back( matrix[l][left]);
+               ans.push_back( matrix[l][left]);                //condition will be applied whenever the -- will happen inside the flr loop trick to remember this
             }
             left++;
           }
