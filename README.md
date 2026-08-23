@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamgoode/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/shivamgoode/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shivamgoode/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivamgoode/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/shivamgoode/DSA/tree/master/0904-fruit-into-baskets) |
 | [2653-sliding-subarray-beauty](https://github.com/shivamgoode/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamgoode/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamgoode/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shivamgoode/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamgoode/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/shivamgoode/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/shivamgoode/DSA/tree/master/0904-fruit-into-baskets) |
 | [2653-sliding-subarray-beauty](https://github.com/shivamgoode/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamgoode/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -58,14 +60,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivamgoode/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivamgoode/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivamgoode/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivamgoode/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivamgoode/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivamgoode/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivamgoode/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -104,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivamgoode/DSA/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivamgoode/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivamgoode/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivamgoode/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivamgoode/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
