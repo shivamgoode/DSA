@@ -1,0 +1,46 @@
+priority queue using heepify  to find top k element frequency from an array
+
+
+
+class Solution {
+public:
+    vector<int> topKFrequent(vector<int>& nums, int k) {
+
+        unordered_map<int, int> count;
+
+        // Count frequency
+        for (int n : nums) {
+            count[n]++;
+        }
+
+        // Min heap based on frequency
+        auto cmp = [&](int a, int b) {
+            return count[a] > count[b];
+        };
+
+        priority_queue<int, vector<int>, decltype(cmp)> heap(cmp);
+
+        // Keep only k most frequent elements
+        for (auto& [n, freq] : count) {
+
+            heap.push(n);
+
+            if (heap.size() > k) {
+                heap.pop();
+            }
+        }
+
+        // Create answer
+        vector<int> ans;
+
+        while (!heap.empty()) {
+            ans.push_back(heap.top());
+            heap.pop();
+        }
+
+        return ans;
+    }
+}; 
+
+
+
