@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamgoode/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shivamgoode/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamgoode/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/shivamgoode/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shivamgoode/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/shivamgoode/DSA/tree/master/0904-fruit-into-baskets) |
 | [2653-sliding-subarray-beauty](https://github.com/shivamgoode/DSA/tree/master/2653-sliding-subarray-beauty) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamgoode/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/shivamgoode/DSA/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
