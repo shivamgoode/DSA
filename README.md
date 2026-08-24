@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamgoode/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/shivamgoode/DSA/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/shivamgoode/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shivamgoode/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shivamgoode/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shivamgoode/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/shivamgoode/DSA/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/shivamgoode/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shivamgoode/DSA/tree/master/0136-single-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shivamgoode/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/shivamgoode/DSA/tree/master/0054-spiral-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamgoode/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
