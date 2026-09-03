@@ -21,9 +21,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivamgoode/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shivamgoode/DSA/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivamgoode/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shivamgoode/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shivamgoode/DSA/tree/master/0020-valid-parentheses) |
 ## Stack
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivamgoode/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shivamgoode/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
