@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shivamgoode/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shivamgoode/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shivamgoode/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/shivamgoode/DSA/tree/master/0078-subsets) |
 | [0349-intersection-of-two-arrays](https://github.com/shivamgoode/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivamgoode/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/shivamgoode/DSA/tree/master/0704-binary-search) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamgoode/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivamgoode/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivamgoode/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
