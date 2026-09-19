@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shivamgoode/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivamgoode/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shivamgoode/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/shivamgoode/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/shivamgoode/DSA/tree/master/0066-plus-one) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivamgoode/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivamgoode/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamgoode/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/shivamgoode/DSA/tree/master/0043-multiply-strings) |
 ## Stack
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamgoode/DSA/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shivamgoode/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
