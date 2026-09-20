@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shivamgoode/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/shivamgoode/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/shivamgoode/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shivamgoode/DSA/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shivamgoode/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamgoode/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/shivamgoode/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/shivamgoode/DSA/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shivamgoode/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shivamgoode/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shivamgoode/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamgoode/DSA/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
@@ -138,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shivamgoode/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/shivamgoode/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
