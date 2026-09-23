@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shivamgoode/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/shivamgoode/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shivamgoode/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/shivamgoode/DSA/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamgoode/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shivamgoode/DSA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/shivamgoode/DSA/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shivamgoode/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shivamgoode/DSA/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivamgoode/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
